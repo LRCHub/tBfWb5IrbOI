@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "90210",
+  "base_artist": "Travis Scott",
+  "createdAt": "2026-01-14T06:47:44.402730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Bones",
+      "has_synced": true,
+      "path": "select/01_90210_Bones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "90210 (feat. Kacy Hill)",
+      "artist": "Travis Scott feat. Kacy Hill",
+      "has_synced": true,
+      "path": "select/02_90210_(feat._Kacy_Hill)_Travis_Scott_feat._Kacy_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "90210 (feat. Kacy Hill)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/03_90210_(feat._Kacy_Hill)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/04_90210_Wale.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Dent May",
+      "has_synced": false,
+      "path": "select/05_90210_Dent_May.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Beginning To Think You Prefer Beverley Hills 90210 To Me",
+      "artist": "Fight Like Apes",
+      "has_synced": true,
+      "path": "select/06_I'm_Beginning_To_Think_You_Prefer_Beverley_Hills_90210_To_Me_Fight_Like_Apes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Travis Scott feat. Kacy Hill",
+      "has_synced": true,
+      "path": "select/07_90210_Travis_Scott_feat._Kacy_Hill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "90210 (feat. Kacy Hill)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/08_90210_(feat._Kacy_Hill)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/09_90210_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "90210 (feat. Kacy Hill)",
+      "artist": "Travis Scott/Kacy Hill",
+      "has_synced": true,
+      "path": "select/10_90210_(feat._Kacy_Hill)_Travis_Scott_Kacy_Hill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "90210 (feat. Kacy Hill)",
+      "artist": "Travis Scott feat. Kacy Hill",
+      "has_synced": true,
+      "path": "select/11_90210_(feat._Kacy_Hill)_Travis_Scott_feat._Kacy_Hill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/12_90210_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "blackbear",
+      "has_synced": true,
+      "path": "select/13_90210_blackbear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "90210",
+      "artist": "Travis Scott, Kacy Hill",
+      "has_synced": true,
+      "path": "select/14_90210_Travis_Scott,_Kacy_Hill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "90210",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_90210_Travis_Scott.txt"
+    }
+  ]
+}
